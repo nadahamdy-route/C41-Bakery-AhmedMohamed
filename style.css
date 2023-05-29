@@ -1,0 +1,236 @@
+*
+{
+    padding: 0%;
+    margin: 0;
+    border: 0;
+    font-family: 'Alegreya Sans', sans-serif;
+
+}
+.float-l
+{
+    float: left;
+}
+.float-r
+{
+    float: right;
+}
+.clear-fix
+{
+    clear: both;
+}
+.color-white
+{
+    color: white;
+}
+.color-black
+{
+    color: black;
+}
+.backcolor1
+{
+    background-color: #f8f8f8;
+}
+.backcolor2
+{
+    background-color: #403d38;
+}
+.backcolor3
+{
+    background-color: #353330;
+}
+.backcolor4
+{
+    background-color: #8e7754;
+}
+.img-100w
+{
+    width: 100%;
+}
+.text-center
+{
+    text-align: center;
+}
+.heading
+{
+    height: 100vh;
+    background-image: url(drew-coffman-1872.jpg);
+    background-size: 100% 100%;
+    padding: 15px 25px 0 25px;
+}
+.nav
+{
+    margin: 0 25px;
+}
+.nav1
+{
+    width: 15%;
+}
+.nav2-1
+{
+    padding: 25px 15px;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+.heading1
+{
+    text-align: center;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 25px;
+    margin: 10% auto; 
+}
+.heading h1
+{
+    font-size: 76PX;
+    margin: 10px 0 20px 0px;
+    font-weight: 400;
+}
+.heading p
+{
+    font-size: 25px;
+    margin: 10px 0
+}
+.button
+{
+    border-radius: 5px;
+    margin: 10px 5px;
+    font-size: 17px;
+}
+.button1
+{
+    padding: 20px 30px;
+    background-color: #8e7754;
+}
+.button2
+{
+    padding: 18px 30px;
+    border: solid white 2px;
+    background-color: transparent;
+}
+.sec
+{
+    font-size: 17px;
+    color: #686868;
+    padding: .5% 2.5%;
+}
+.sec p
+{
+    line-height: 2;
+}
+.sec1
+{
+    width: 45%;
+    margin: 80px 2.5%;
+}
+.d1
+{
+    padding: 50px 0 30px ;
+    font-size: 18px;
+    color: white;
+}
+.d
+{
+    padding: 50px 0 30px ;
+    font-size: 35px;
+    color: black;
+}
+.sec3
+{
+    width: 30%;
+    padding: 2.5% 1.5%;
+}
+.sec4
+{
+    width: 23%;
+    margin: 1% ;
+    font-size: 16px;
+    line-height: 1;
+    color: #969696;
+}
+hr
+{
+    border: #4a4742 solid .01px;
+}
+
+a img
+{
+    width: 100%;
+
+}
+.foot
+{
+    text-align: center; 
+    padding: 50px;
+    color: RGB(119, 119, 119)
+}
+
+.foot p
+{
+    margin: 20px;
+}
+a
+{
+ width: 100px;
+}
+a
+{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 2px;
+}
+.ul1 img
+{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: .5px #d9d9d9 solid;   
+}
+.ul2 img
+{
+    width: 20px;
+}
+.ul1
+{
+    list-style: none;
+    margin-top: 20px;
+}
+.ul2
+{
+    list-style: none;
+
+}
+
+.g
+{
+    padding: 10px;
+}
+.c
+{
+    width: 80%;
+}
+.fgh img
+{
+    width:30px;
+}
+ul li
+{
+    margin: 10px 0 ;
+}
+
+.sec5
+{
+    margin: 40px 2.5%;
+}
+span
+{
+    line-height: 1.5 ;
+}
+.fff
+{
+background-image: url(contact-details-map.png);
+background-size:  contain ;
+background-position: center center;
+background-repeat: no-repeat;
+background-color: rgba(64, 61, 56, .2);
+}
